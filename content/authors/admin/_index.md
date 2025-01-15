@@ -55,7 +55,7 @@ education:
     date_end: 2024-07-20
     summary: |
 
-      GPA: 3.51/4.0
+      GPA: 3.51/4.3
       
       My undergraduate education in Electrical Engineering provided me with a solid foundation in both engineering and theoretical concepts. My primary concentration was in control theory, while I also explored various other fields.
 
