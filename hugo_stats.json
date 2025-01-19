@@ -4,10 +4,12 @@
       "a",
       "article",
       "aside",
+      "blockquote",
       "body",
       "button",
       "circle",
       "div",
+      "em",
       "footer",
       "h1",
       "h2",
@@ -151,6 +153,8 @@
       "h-6",
       "h-[18px]",
       "h-[24px]",
+      "hb-attachment-large",
+      "hb-attachment-link",
       "hb-scrollbar",
       "hb-sidebar-container",
       "hb-sidebar-custom-link",
@@ -363,6 +367,7 @@
       "share-link-whatsapp",
       "share-link-x",
       "sun",
+      "the-avatar-on-this-homepage-is-not-me-it-is-bernkastel-a-character-from-the-visual-novel-umineko-no-naku-koro-ni",
       "top"
     ]
   }

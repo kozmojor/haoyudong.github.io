@@ -111,7 +111,6 @@ awards:
 
 I am now a master student in EE of Columbia University, under the track of **Signals, Information and Data**. My current research focus lies in the intersection of Machine Learning, Computer Vision and Signal Processing. I was lucky to earn my B.S degree in **Automation & Control** from Xi'an Jiaotong University in July 2024 before the start of my M.S in September 2024. And I'm now preparing for the PhD application of 2026 Fall and I'm more than willing to join any lab related to my research interest as RA. If you have a interest in collaborate with me, please contact me through my email!
 
-
-The avatar on this homepage is not me; it is **Bernkastel**, a character from the visual novel **Umineko no Naku Koro ni**.
+*<span style="color:gray;">The avatar on this homepage is not me; it is **Bernkastel**, a character from one of my favorite visual novels **Umineko no Naku Koro ni**.</span>*
 
 **Email Address: hd2573 at columbia.edu**
