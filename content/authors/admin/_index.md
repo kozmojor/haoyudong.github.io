@@ -28,16 +28,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'hd2573@columbia.edu'
+    url: 'mailto:hd2573@columbia.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev???
   - icon: brands/github
     url: https://github.com/kozmojor?tab=repositories
   - icon: brands/linkedin
-    url: www.linkedin.com/in/haoyu-dong
-  - icon: brands/instagram
-    url: https://www.instagram.com/???
+    url: https://www.linkedin.com/in/haoyu-dong
 
 education:
   - area: M.S in Electrical Engineering
@@ -72,10 +68,10 @@ skills:
       - name: Tensorflow
         description: ''
         percent: 70
-        icon: devicon/rstudio
+        icon: devicon/tensorflow
       - name: PyTorch
         description: ''
-        percent: 65
+        percent: 70
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -84,16 +80,15 @@ skills:
       - name: ACG
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: tv
       - name: Cooking
         description: ''
         percent: 60
         icon: cat
-      - name: Travelling
+      - name: Cinema
         description: ''
-        percent: 40
-        icon: camera
-
+        percent: 50
+        icon: video-camera
 languages:
   - name: English
     percent: 100
@@ -110,7 +105,6 @@ awards:
   - title: Excellent Student' Scholarship, XJTU, Academic Year 2022-2023
     date: '2023-11-25'
     awarder: Xian Jiaotong University (XJTU)
-    icon: coursera
     summary: |
       I was awarded the Excellent Student' Scholarship as one of the top 10% students in XJTU.
 ---

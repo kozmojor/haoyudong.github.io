@@ -33,6 +33,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: collection
+    id: Recent Work
+    content:
+      title: Recent Work
   - block: skills
     content:
       title: Skills & Hobbies
@@ -46,3 +50,4 @@ sections:
       title: Languages
       username: admin
 ---
+
