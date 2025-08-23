@@ -42,7 +42,7 @@ education:
     date_end: 2025-12-31
     summary: |
 
-      GPA: 4.08/4.0
+      GPA: 4.04/4.0
 
       I'm now pursuing my M.S degree with strong passion for the field of deep learning
   - area: B.S in Automation & Control
@@ -102,6 +102,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 2025 Spring MS Honors Students, Electrical Engineering, Columbia University
+    date: '2025-07-01'
+    awarder: Columbia University, Electrical Engineering
+    summary: |
+      I was awarded the MS Honors Students and continued to work under the guidance of Prof. Kostic with the help of this scholarship.
   - title: Excellent Student' Scholarship, XJTU, Academic Year 2022-2023
     date: '2023-11-25'
     awarder: Xian Jiaotong University (XJTU)
