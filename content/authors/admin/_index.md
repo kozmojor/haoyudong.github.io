@@ -114,7 +114,9 @@ awards:
       I was awarded the Excellent Student' Scholarship as one of the top 10% students in XJTU.
 ---
 
-I am now a master student in EE of Columbia University, under the track of **Signals, Information and Data**. My current research focus lies in the application of  **Reasoning MLLM**, supervised by [Prof.Zoran Kostic](https://www.aidl.ee.columbia.edu/) as RA in Columbia University, and I am passionate about research on the field of MLLM. I was lucky to earn my B.S degree in **Automation & Control** from Xi'an Jiaotong University in July 2024 before the start of my M.S in September 2024. Currently I'm preparing for the PhD application of 2026 Fall and I am now seeking a summer research position. If you have a interest in collaborate with me, please contact me through my email!
+I am an M.S. student in Electrical Engineering at **Columbia University**, advised by [Prof. Zoran Kostić](https://www.aidl.ee.columbia.edu/) and working closely with [Prof. Chengzhi Mao](https://chengzhi-mao.github.io/). My research focuses on **reasoning in multimodal large language models (MLLMs)**, with an emphasis on self-improving models, reward design, and reinforcement-learning–based post-training.
+
+Prior to Columbia, I received my B.S. degree in **Automation and Control** from **Xi’an Jiaotong University** in July 2024. __I am currently preparing applications for **Ph.D. programs starting in Fall 2026**, with the goal of developing reliable and sample-efficient multimodal reasoning systems.__
 
 *<span style="color:gray;">The avatar on this homepage is not me; it is **Bernkastel**, a character from one of my favorite visual novels **Umineko no Naku Koro ni**.</span>*
 
