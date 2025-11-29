@@ -1,6 +1,12 @@
 ---
 title: "Maximum Coentropy Criterion based Kalman Filtering"
 date: 2024-06-20
+
+summary: "An improved Kalman filter using the Maximum Coentropy Criterion for robust estimation under non-Gaussian noise."
+
+image:
+  filename: MCCKF.png
+  preview_only: true
 ---
 
 <!--more-->

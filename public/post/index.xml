@@ -5,7 +5,7 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Posts</title>
@@ -13,13 +13,52 @@
     </image>
     
     <item>
-      <title>I received A&#43; in my Deep Learning course!</title>
-      <link>http://localhost:1313/post/my-post/</link>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/my-post/</guid>
-      <description>&lt;p&gt;I won A+ grade in &lt;strong&gt;ECBM4040 NEURAL NETWRKS &amp;amp; DEEP LEARNING&lt;/strong&gt; advised by &lt;strong&gt;Prof.Zoran Kostic&lt;/strong&gt; in Columbia.&lt;/p&gt;
-&lt;p&gt;Exploring deep learning has been an enriching experience, offering valuable insights and practical applications as I built different models from scratch. Throughout the course, I had the opportunity to work on various challenges, including a Kaggle competition on CNN image classification, where I achieved a &lt;strong&gt;top-three&lt;/strong&gt; accuracy in the class. I also received a score of &lt;strong&gt;95/100&lt;/strong&gt; on my final project, which further deepened my understanding of the subject. Ultimately, I completed the course with an &lt;strong&gt;A+&lt;/strong&gt;, and I’m excited to continue exploring this dynamic field.&lt;/p&gt;
-&lt;p&gt;My final project is about &lt;strong&gt;Kolmogorov-Arnold Representation Theorem based Neural Network&lt;/strong&gt;, and the final report is available &lt;a href=&#34;E4040.2024Fall.KANY.report.hd2573.jx2598.yk3108.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; while code is in my &lt;a href=&#34;https://github.com/kozmojor/Tensorflow-Implementation-of-KAN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;github&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <title>Cross-Modal Cycle-Consistency Rewards for Label-Free Multimodal RL</title>
+      <link>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/fig1_modality_gap.png&#34;
+    alt=&#34;Modality Gap Example.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Modality Gap Example.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This project is part of my ongoing research in &lt;strong&gt;Multimodal Large Language Model (MLLM) Post-training&lt;/strong&gt;, jointly with &lt;a href=&#34;https://chengzhi-mao.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prof. Chengzhi Mao&lt;/strong&gt;&lt;/a&gt; (Rutgers) and collaborators.&lt;br&gt;
+Our work introduces &lt;strong&gt;Cross-Modal Cycle-Consistency Rewards (C³R)&lt;/strong&gt; — a label-free reinforcement learning framework that converts &lt;strong&gt;image–text conflicts&lt;/strong&gt; inside MLLMs into dense, self-generated rewards. This allows a model to improve its visual–textual reasoning ability &lt;strong&gt;without human annotations&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/c3r_cycle_overview.png&#34;
+    alt=&#34;Overview of the C³R pipeline.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Overview of the C³R pipeline.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In summary, C³R introduces a simple yet effective self-rewarding paradigm that turns modality contradictions into dense RL signals, enabling consistent improvements across diverse multimodal reasoning tasks.&lt;/p&gt;
+&lt;p&gt;C³R improves a broad range of benchmarks including &lt;strong&gt;ScienceQA, ChartQA, DocVQA, InfoVQA, MathVista&lt;/strong&gt;, and &lt;strong&gt;A-OKVQA&lt;/strong&gt;, achieving up to &lt;strong&gt;+7.6 accuracy improvement&lt;/strong&gt; under the same model backbone.&lt;br&gt;
+The paper is currently &lt;strong&gt;under review at one of the CCF-A conferences&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;📕📕📕The &lt;strong&gt;preprint version&lt;/strong&gt; of the paper can be found here:&lt;br&gt;
+📚📚📚 &lt;a href=&#34;https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐⭐⭐For a more intuitive understanding, you can browse the &lt;strong&gt;interactive project page&lt;/strong&gt; I designed for this work:&lt;br&gt;
+🌠🌠🌠 &lt;a href=&#34;https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Website&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Knowleadge Based Multimodal CoT Reasoning</title>
+      <link>http://localhost:1313/post/knowleadge-based-multimodal-cot-reasoning/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/knowleadge-based-multimodal-cot-reasoning/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/knowleadge-based-multimodal-cot-reasoning/VRLM%20Pipe.png&#34;
+    alt=&#34;VRLM Workflow.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;VRLM Workflow.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This project, conducted at Columbia University under &lt;a href=&#34;https://www.aidl.ee.columbia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prof. Zoran Kostic&lt;/strong&gt;&lt;/a&gt;, develops a visual reasoning framework to improve the &lt;strong&gt;verifiability and consistency&lt;/strong&gt; of multimodal VQA.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/knowleadge-based-multimodal-cot-reasoning/VRLM%20Cap.png&#34;
+    alt=&#34;A sample where vanilla caption fails to provides proper information for agent to reason.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;A sample where vanilla caption fails to provides proper information for agent to reason.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The method combines &lt;strong&gt;evidence-dense captioning&lt;/strong&gt;—which fuses multi-view visual cues into a grounded scene description—with &lt;strong&gt;agentic self-consistency&lt;/strong&gt; based on rationale-checked majority voting. Evaluated on Commonsense Reasoning benchmark &lt;strong&gt;A-OKVQA&lt;/strong&gt;, the framework yields a &lt;strong&gt;+13 pp&lt;/strong&gt; accuracy gain over strong CoT baselines, with ablations showing substantial contributions from both evidence grounding and agent consensus. The research project can be found &lt;a href=&#34;VRLM.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -34,9 +34,19 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
+    id: Publications
+    content:
+      title: Publications
+      filters:
+        folders: ["publication"]
+  - block: collection
     id: Recent Work
     content:
       title: Recent Work
+      filters:
+        folders: ["post"]
+    design:
+      view: showcase 
   - block: skills
     content:
       title: Skills & Hobbies
