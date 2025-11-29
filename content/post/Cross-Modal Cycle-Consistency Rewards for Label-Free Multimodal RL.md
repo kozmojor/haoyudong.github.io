@@ -7,6 +7,16 @@ summary: "A label-free reinforcement learning method using cross-modal cycle con
 image:
   filename: ico.png
   preview_only: true
+
+links:
+  - icon: file
+    icon_pack: fas
+    name: Public Preprint
+    url: https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf
+  - icon: tv
+    icon_pack: fas
+    name: Project Page
+    url: https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/
 ---
 
 <!--more-->

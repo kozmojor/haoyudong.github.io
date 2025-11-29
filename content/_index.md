@@ -37,8 +37,14 @@ sections:
     id: Publications
     content:
       title: Publications
+      subtitle: "Peer-reviewed papers, preprints, and ongoing research"
       filters:
         folders: ["publication"]
+    design:
+      layout: list
+      view: citation
+    design:
+      layout: list
   - block: collection
     id: Recent Work
     content:

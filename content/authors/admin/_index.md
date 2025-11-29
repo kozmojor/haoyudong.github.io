@@ -38,13 +38,13 @@ profiles:
 education:
   - area: M.S in Electrical Engineering
     institution: Columbia University
-    date_start: 2024-09-01
-    date_end: 2025-12-31
+    date_start: 2024-09-02
+    date_end: 2025-12-19
     summary: |
 
-      GPA: 4.04/4.0
+      GPA: 4.07/4.0
 
-      I'm now pursuing my M.S degree with strong passion for the field of deep learning
+      I'm now pursuing my M.S degree with strong passion for the field of trustworthy multimodal intelligent systems.
   - area: B.S in Automation & Control
     institution: Xi'an Jiaotong University
     date_start: 2020-09-01
@@ -53,7 +53,7 @@ education:
 
       GPA: 3.51/4.3
       
-      My undergraduate education in Electrical Engineering provided me with a solid foundation in both engineering and theoretical concepts. My primary concentration was in control theory, while I also explored various other fields.
+      My undergraduate education in Electrical Engineering provided me with a solid foundation in both engineering and theoretical concepts. My primary concentration was in control theory, while I also explored various other fields. Without doubt, deep learning is also one of such fields which naturally builds on the mathematical and signal-processing foundations of my EE training.
 
 
 # Skills
@@ -114,10 +114,12 @@ awards:
       I was awarded the Excellent Student' Scholarship as one of the top 10% students in XJTU.
 ---
 
-I am an M.S. student in Electrical Engineering at **Columbia University**, advised by [Prof. Zoran Kostić](https://www.aidl.ee.columbia.edu/) and working closely with [Prof. Chengzhi Mao](https://chengzhi-mao.github.io/). My research focuses on **reasoning in multimodal large language models (MLLMs)**, with an emphasis on self-improving models, reward design, and reinforcement-learning–based post-training.
+I am an M.S. student in Electrical Engineering at **Columbia University**, advised by [Prof. Zoran Kostić](https://www.aidl.ee.columbia.edu/) and working closely with [Prof. Chengzhi Mao](https://chengzhi-mao.github.io/). My research centers on **reasoning in multimodal large language models (MLLMs)**, with a focus on *self-improving training pipelines*, *reward design*, and *reinforcement-learning–based post-training*. My broader goal is to build **trustworthy, sample-efficient multimodal systems** that can operate reliably in complex real-world environments. And this remains a serious and unsolved topic—one that demands sustained effort from myself, and the broader research community.
 
-Prior to Columbia, I received my B.S. degree in **Automation and Control** from **Xi’an Jiaotong University** in July 2024. __I am currently preparing applications for **Ph.D. programs starting in Fall 2026**, with the goal of developing reliable and sample-efficient multimodal reasoning systems.__
+Prior to Columbia, I received my B.S. in **Automation and Control** from **Xi’an Jiaotong University** in 2024. My background in control theory and signal processing continues to shape my current work—especially in optimization dynamics, stability, and information-efficient learning—forming a coherent trajectory toward **advanced multimodal AI**.
 
-*<span style="color:gray;">The avatar on this homepage is not me; it is **Bernkastel**, a character from one of my favorite visual novels **Umineko no Naku Koro ni**.</span>*
+I am currently preparing **Ph.D. applications for Fall 2026**, aiming to develop the next generation of *robust and verifiable multimodal reasoning models*.
+
+<span style="color:gray;">The avatar on this homepage is not me; it is <em>Bernkastel</em>, a character from the visual novel <em>Umineko no Naku Koro ni</em>.</span>
 
 **Email Address: hd2573 at columbia.edu**

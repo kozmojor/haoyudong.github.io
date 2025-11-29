@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning</title>
-      <link>http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/</link>
+      <title>Cross-Modal Cycle-Consistency Rewards for Label-Free Multimodal RL</title>
+      <link>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/fig1_modality_gap.png&#34;
+      <guid>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/fig1_modality_gap.png&#34;
     alt=&#34;Modality Gap Example.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Modality Gap Example.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -25,7 +25,7 @@
 
 &lt;p&gt;This project is part of my ongoing research in &lt;strong&gt;Multimodal Large Language Model (MLLM) Post-training&lt;/strong&gt;, jointly with &lt;a href=&#34;https://chengzhi-mao.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prof. Chengzhi Mao&lt;/strong&gt;&lt;/a&gt; (Rutgers) and collaborators.&lt;br&gt;
 Our work introduces &lt;strong&gt;Cross-Modal Cycle-Consistency Rewards (C³R)&lt;/strong&gt; — a label-free reinforcement learning framework that converts &lt;strong&gt;image–text conflicts&lt;/strong&gt; inside MLLMs into dense, self-generated rewards. This allows a model to improve its visual–textual reasoning ability &lt;strong&gt;without human annotations&lt;/strong&gt;.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/c3r_cycle_overview.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/c3r_cycle_overview.png&#34;
     alt=&#34;Overview of the C³R pipeline.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Overview of the C³R pipeline.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -41,11 +41,11 @@ The paper is currently &lt;strong&gt;under review at one of the CCF-A conference
     </item>
     
     <item>
-      <title>Cross-Modal Cycle-Consistency Rewards for Label-Free Multimodal RL</title>
-      <link>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/fig1_modality_gap.png&#34;
+      <title>C³R: Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning</title>
+      <link>http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/fig1_modality_gap.png&#34;
     alt=&#34;Modality Gap Example.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Modality Gap Example.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -53,7 +53,7 @@ The paper is currently &lt;strong&gt;under review at one of the CCF-A conference
 
 &lt;p&gt;This project is part of my ongoing research in &lt;strong&gt;Multimodal Large Language Model (MLLM) Post-training&lt;/strong&gt;, jointly with &lt;a href=&#34;https://chengzhi-mao.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prof. Chengzhi Mao&lt;/strong&gt;&lt;/a&gt; (Rutgers) and collaborators.&lt;br&gt;
 Our work introduces &lt;strong&gt;Cross-Modal Cycle-Consistency Rewards (C³R)&lt;/strong&gt; — a label-free reinforcement learning framework that converts &lt;strong&gt;image–text conflicts&lt;/strong&gt; inside MLLMs into dense, self-generated rewards. This allows a model to improve its visual–textual reasoning ability &lt;strong&gt;without human annotations&lt;/strong&gt;.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/c3r_cycle_overview.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/publication/cross-modal-cycle-consistency-rewards-improve-multimodal-reasoning/c3r_cycle_overview.png&#34;
     alt=&#34;Overview of the C³R pipeline.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Overview of the C³R pipeline.&lt;/p&gt;
     &lt;/figcaption&gt;

@@ -1,8 +1,28 @@
 ---
-title: "Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning"
-date: 2025-11-28
+title: "C³R: Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning"
+summary: "Zirui Zhang, **Haoyu Dong**, Kexin Pei, Chengzhi Mao (Under Review)"
+authors:
+  - Zirui Zhang
+  - Haoyu Dong
+  - Kexin Pei
+  - Chengzhi Mao
+date: 2025-11-14
+featured: true
+links:
+  - icon: file
+    icon_pack: fas
+    name: Public Preprint
+    url: https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf
+  - icon: tv
+    icon_pack: fas
+    name: Project Page
+    url: https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/
 
-summary: "Zirui Zhang, Haoyu Dong , Kexin Pei , Chengzhi Mao (Under Review · Preprint Available)"
+card_links:
+  - name: Paper
+    url: "https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf"
+  - name: Project
+    url: "https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/"
 ---
 
 <!--more-->
