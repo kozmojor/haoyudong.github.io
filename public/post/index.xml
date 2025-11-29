@@ -58,7 +58,7 @@ The paper is currently &lt;strong&gt;under review at one of the CCF-A conference
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The method combines &lt;strong&gt;evidence-dense captioning&lt;/strong&gt;—which fuses multi-view visual cues into a grounded scene description—with &lt;strong&gt;agentic self-consistency&lt;/strong&gt; based on rationale-checked majority voting. Evaluated on Commonsense Reasoning benchmark &lt;strong&gt;A-OKVQA&lt;/strong&gt;, the framework yields a &lt;strong&gt;+13 pp&lt;/strong&gt; accuracy gain over strong CoT baselines, with ablations showing substantial contributions from both evidence grounding and agent consensus. The research project can be found &lt;a href=&#34;VRLM.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The method combines &lt;strong&gt;evidence-dense captioning&lt;/strong&gt;—which fuses multi-view visual cues into a grounded scene description—with &lt;strong&gt;agentic self-consistency&lt;/strong&gt; based on rationale-checked majority voting. Evaluated on Commonsense Reasoning benchmark &lt;strong&gt;A-OKVQA&lt;/strong&gt;, the framework yields a &lt;strong&gt;+13 pp&lt;/strong&gt; accuracy gain over strong CoT baselines, with ablations showing substantial contributions from both evidence grounding and agent consensus. The research project can be found [&lt;strong&gt;here&lt;/strong&gt;](Knowleadge Based Multimodal CoT Reasoning.pdf).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,7 +66,14 @@ The paper is currently &lt;strong&gt;under review at one of the CCF-A conference
       <link>http://localhost:1313/post/exploring-transformer-models/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/exploring-transformer-models/</guid>
-      <description>&lt;p&gt;This project is advised by &lt;strong&gt;Prof.Krzysztof Choromanski&lt;/strong&gt; as final project for course &lt;strong&gt;IEOR6617 Machine Learning and High-Dimensional Data&lt;/strong&gt; in Columbia, which focuses on the &lt;strong&gt;rotary positional embedding mechanism&lt;/strong&gt; on both classical &lt;strong&gt;Transformer&lt;/strong&gt; and &lt;strong&gt;Sparse-Attention based Transformer(Performer)&lt;/strong&gt;. We conducted thorough experiments involving both models and several &lt;strong&gt;SOTA&lt;/strong&gt; positional embedding mechanisms on &lt;strong&gt;CIFAR100&lt;/strong&gt; dataset and gave detailed analysis in &lt;a href=&#34;RoPerformer.pdf&#34;&gt;&lt;strong&gt;final report&lt;/strong&gt;&lt;/a&gt; on our results.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While transformers handle many tasks remarkably well, their performance heavily depends on how positional information is represented. However, learning long-range and stable positional representations remains difficult—especially when we aim to make attention both faster and more scalable.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/exploring-transformer-models/Performer.png&#34;
+    alt=&#34;Vanilla Attention Mechanism.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Vanilla Attention Mechanism.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This project is advised by &lt;strong&gt;Prof.Krzysztof Choromanski&lt;/strong&gt; as final project for course &lt;strong&gt;IEOR6617 Machine Learning and High-Dimensional Data&lt;/strong&gt; in Columbia, which focuses on the &lt;strong&gt;rotary positional embedding mechanism&lt;/strong&gt; on both classical &lt;strong&gt;Transformer&lt;/strong&gt; and &lt;strong&gt;Sparse-Attention based Transformer(Performer)&lt;/strong&gt;. We conducted thorough experiments involving both models and several &lt;strong&gt;SOTA&lt;/strong&gt; positional embedding mechanisms on &lt;strong&gt;CIFAR100&lt;/strong&gt; dataset and gave detailed analysis in &lt;a href=&#34;exploring-transformer-models.pdf&#34;&gt;&lt;strong&gt;final report&lt;/strong&gt;&lt;/a&gt; on our results.&lt;/p&gt;</description>
     </item>
     
     <item>
