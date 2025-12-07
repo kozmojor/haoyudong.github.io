@@ -1,5 +1,5 @@
 ---
-title: "C³R: Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning"
+title: "R-C²: Cross-Modal Cycle Consistency Rewards Improve Multimodal Reasoning"
 summary: "Zirui Zhang, **Haoyu Dong**, Kexin Pei, Chengzhi Mao (Under Review)"
 authors:
   - Zirui Zhang
