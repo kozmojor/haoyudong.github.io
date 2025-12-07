@@ -24,20 +24,20 @@
 &lt;/figure&gt;
 
 &lt;p&gt;This project is part of my ongoing research in &lt;strong&gt;Multimodal Large Language Model (MLLM) Post-training&lt;/strong&gt;, jointly with &lt;a href=&#34;https://chengzhi-mao.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Prof. Chengzhi Mao&lt;/strong&gt;&lt;/a&gt; (Rutgers) and collaborators.&lt;br&gt;
-Our work introduces &lt;strong&gt;Cross-Modal Cycle-Consistency Rewards (C³R)&lt;/strong&gt; — a label-free reinforcement learning framework that converts &lt;strong&gt;image–text conflicts&lt;/strong&gt; inside MLLMs into dense, self-generated rewards. This allows a model to improve its visual–textual reasoning ability &lt;strong&gt;without human annotations&lt;/strong&gt;.&lt;/p&gt;
+Our work introduces &lt;strong&gt;Cross-Modal Cycle-Consistency Rewards (R-C²)&lt;/strong&gt; — a label-free reinforcement learning framework that converts &lt;strong&gt;image–text conflicts&lt;/strong&gt; inside MLLMs into dense, self-generated rewards. This allows a model to improve its visual–textual reasoning ability &lt;strong&gt;without human annotations&lt;/strong&gt;.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/cross-modal-cycle-consistency-rewards-for-label-free-multimodal-rl/c3r_cycle_overview.png&#34;
-    alt=&#34;Overview of the C³R pipeline.&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Overview of the C³R pipeline.&lt;/p&gt;
+    alt=&#34;Overview of the R-C² pipeline.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Overview of the R-C² pipeline.&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;In summary, C³R introduces a simple yet effective self-rewarding paradigm that turns modality contradictions into dense RL signals, enabling consistent improvements across diverse multimodal reasoning tasks.&lt;/p&gt;
-&lt;p&gt;C³R improves a broad range of benchmarks including &lt;strong&gt;ScienceQA, ChartQA, DocVQA, InfoVQA, MathVista&lt;/strong&gt;, and &lt;strong&gt;A-OKVQA&lt;/strong&gt;, achieving up to &lt;strong&gt;+7.6 accuracy improvement&lt;/strong&gt; under the same model backbone.&lt;br&gt;
+&lt;p&gt;In summary, R-C² introduces a simple yet effective self-rewarding paradigm that turns modality contradictions into dense RL signals, enabling consistent improvements across diverse multimodal reasoning tasks.&lt;/p&gt;
+&lt;p&gt;R-C² improves a broad range of benchmarks including &lt;strong&gt;ScienceQA, ChartQA, DocVQA, InfoVQA, MathVista&lt;/strong&gt;, and &lt;strong&gt;A-OKVQA&lt;/strong&gt;, achieving up to &lt;strong&gt;+7.6 accuracy improvement&lt;/strong&gt; under the same model backbone.&lt;br&gt;
 The paper is currently &lt;strong&gt;under review at one of the CCF-A conferences&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;📕📕📕The &lt;strong&gt;preprint version&lt;/strong&gt; of the paper can be found here:&lt;br&gt;
-📚📚📚 &lt;a href=&#34;https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint PDF&lt;/a&gt;&lt;/p&gt;
+📚📚📚 &lt;a href=&#34;https://r-c2-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/static/papers/CVXX2026_Cycle_Consist_arxiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;⭐⭐⭐For a more intuitive understanding, you can browse the &lt;strong&gt;interactive project page&lt;/strong&gt; I designed for this work:&lt;br&gt;
-🌠🌠🌠 &lt;a href=&#34;https://c3r-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Website&lt;/a&gt;&lt;/p&gt;</description>
+🌠🌠🌠 &lt;a href=&#34;https://r-c2-cmlab.github.io/Cross-Modal-Cycle-Consistency-Rewards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Website&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
